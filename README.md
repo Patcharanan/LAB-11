@@ -52,6 +52,9 @@
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+   <p align = "center">
+<img src= "https://github.com/Patcharanan/LAB-11/blob/master/imgs/5.PNG?raw=true">
+</p>
 
 ### การระบายสีด้วย Path Gradient Brush
 
