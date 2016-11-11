@@ -29,6 +29,9 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
+  <p align = "center">
+<img src= "https://github.com/Patcharanan/LAB-11/blob/master/imgs/3.PNG?raw=true">
+</p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 ### การระบายสีด้วย TextureBrush
