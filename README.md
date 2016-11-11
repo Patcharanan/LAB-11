@@ -78,5 +78,5 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
 <p align = "center">
-<img src= "https://github.com/Patcharanan/LAB-11/blob/master/imgs/6.PNG?raw=true">
+<img src= "https://raw.githubusercontent.com/Patcharanan/LAB-11/3b95d06545c4c09b14ec2bbdbad63e8b01b18b55/imgs/6.PNG">
 </p>
