@@ -1,3 +1,4 @@
+#นายพชรนันท์ จันทร์รักษ์ 57030198
 #ใบงานที่ 11
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (3)
 ## กล่าวนำ
@@ -80,3 +81,5 @@
 <p align = "center">
 <img src= "https://raw.githubusercontent.com/Patcharanan/LAB-11/3b95d06545c4c09b14ec2bbdbad63e8b01b18b55/imgs/6.PNG">
 </p>
+
+#นายพชรนันท์ จันทร์รักษ์ 57030198
